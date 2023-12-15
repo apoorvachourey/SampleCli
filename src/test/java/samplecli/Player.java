@@ -1,4 +1,4 @@
-package com.example.samplecli;
+package samplecli;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
